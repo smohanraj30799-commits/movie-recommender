@@ -2,7 +2,7 @@
 
 A modern **Movie Recommendation Web App** built using **Machine Learning and Streamlit**, inspired by platforms like Netflix and PickAMovieForMe.
 
-🔗 **Live Demo:** (Add your deployed link here)
+🔗 **Live Demo:** [(Add your deployed link here)](https://movie-recommender-gpwncn4csgzwteqk8erhij.streamlit.app/)
 
 ---
 
